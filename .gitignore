@@ -1,0 +1,4 @@
+chunks/
+downloads/
+venv/
+__pycache__/
